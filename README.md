@@ -40,7 +40,7 @@
       <a href="https://github.com/avijitbhuin21/Doctor_ai/issues" target="_blank">
           <img src="https://img.shields.io/github/issues/avijitbhuin21/Doctor_ai.svg?style=social" alt="Issues on GitHub"/>
       </a>
-        <a href="https://doctor-ai-by-avijit.streamlit.app/" target="_blank">
+        <a href="https://medconscious.in" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-FF4136?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Demo"/>
       </a>
   </p>
