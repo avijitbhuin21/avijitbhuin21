@@ -28,7 +28,7 @@
 ## 🔭 Current Projects & Research
 
 <details>
-  <summary><b>Doctor AI</b> 👨‍⚕️🤖</summary>
+  <summary><b>MedConscious.in</b> 👨‍⚕️🤖</summary>
   <br>
   <p align="left">
       <a href="https://github.com/avijitbhuin21/Doctor_ai" target="_blank">
